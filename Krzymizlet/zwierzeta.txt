@@ -1,0 +1,10 @@
+pies		dog
+kot		cat
+mysz		mouse
+kon		horse
+szczur		rat
+zolw		turtle
+lew		lion
+zuk		bettle
+chomik		chamster
+pajak		spider

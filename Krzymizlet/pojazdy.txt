@@ -1,0 +1,10 @@
+samochod	car
+samolot		plane
+rower		bike
+motor		motorcicle
+karetka		ambulance
+helikopter	helicopter
+statek		ship
+lodka		boat
+autobus		bus
+pociag		train

@@ -1,0 +1,10 @@
+miecz		sword
+kusza		crossbow
+noz		knife
+bulawa		mace
+sztylet		dagger
+hak		hook
+proca		slingshot
+pistolet	gun
+halabarda	halbeard
+kindzal		dirk
